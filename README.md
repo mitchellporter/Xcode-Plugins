@@ -10,6 +10,9 @@ Xcode plugin for auto-hiding the debugger once you start typing in the source co
 3. KSImageNamed-Xcode - https://github.com/ksuther/KSImageNamed-Xcode
 Xcode plug-in that provides autocomplete for imageNamed: calls
 
+4. GitDiff - https://github.com/johnno1962/GitDiff
+Highlights deltas against git repo in Xcode
+
 Will be using in the near future:
 
 1. VVDocumenter-Xcode - https://github.com/onevcat/VVDocumenter-Xcode
