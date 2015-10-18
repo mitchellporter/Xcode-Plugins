@@ -35,3 +35,7 @@ Note: Not working for me right now on Xcode 7
 4. SCXcodeSwitchExpander - https://github.com/stefanceriu/SCXcodeSwitchExpander
 Autocompletion for switch statements. Will autocomplete all possible cases for enums.
 Note: Doesn't currently work with Swift.
+
+5. xcode-wakatime - https://github.com/wakatime/xcode-wakatime
+Xcode plugin to quantify your coding using https://wakatime.com/.
+
