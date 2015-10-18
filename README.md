@@ -1,5 +1,5 @@
 # Xcode-Plugins
-Currently using:
+###Currently using:
 
 2. BBUDebuggerTuckAway - https://github.com/neonichu/BBUDebuggerTuckAway
 Xcode plugin for auto-hiding the debugger once you start typing in the source code editor.
@@ -25,7 +25,7 @@ An Xcode plugin that makes navigating to many places easier
 9. SuperFixer-Xcode - https://github.com/johankj/SuperFixer-Xcode
 An Xcode plug-in for Swift projects, which adds calls to `super` in certains methods like `viewDidLoad` etc.
 
-Will be using in the near future:
+###Will be using in the near future:
 
 1. VVDocumenter-Xcode - https://github.com/onevcat/VVDocumenter-Xcode
 Xcode plug-in which helps you write documentation comments easier, for both Objective-C and Swift.
