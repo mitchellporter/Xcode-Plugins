@@ -16,4 +16,9 @@ Will be using in the near future:
 Xcode plug-in which helps you write documentation comments easier, for both Objective-C and Swift.
 
 2. ColorSense-for-Xcode - https://github.com/omz/ColorSense-for-Xcode
-Not working for me right now on Xcode 7
+Displays the color that your code creates.
+Note: Not working for me right now on Xcode 7
+
+3. Backlight-for-XCode - https://github.com/limejelly/Backlight-for-XCode
+Highlights the current editing line in Xcode 
+Note: Not working for me right now on Xcode 7
