@@ -13,6 +13,9 @@ Highlights deltas against git repo in Xcode
 5. Dash-Plugin-for-Xcode - https://github.com/omz/Dash-Plugin-for-Xcode
 Companion plugin for Dash (https://itunes.apple.com/us/app/dash/id449589707)
 
+6. XAlign - https://github.com/qfish/XAlign
+An amazing Xcode plugin to align regular code. it can align Xnything in any way you want.
+
 Will be using in the near future:
 
 1. VVDocumenter-Xcode - https://github.com/onevcat/VVDocumenter-Xcode
