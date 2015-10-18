@@ -39,3 +39,5 @@ Note: Doesn't currently work with Swift.
 5. xcode-wakatime - https://github.com/wakatime/xcode-wakatime
 Xcode plugin to quantify your coding using https://wakatime.com/.
 
+6. MLAutoReplace - https://github.com/molon/MLAutoReplace
+Xcode plugin, Re-Intent, make you write code more quickly.
