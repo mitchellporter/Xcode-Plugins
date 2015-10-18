@@ -11,3 +11,6 @@ Will be using in the near future:
 
 1. VVDocumenter-Xcode - https://github.com/onevcat/VVDocumenter-Xcode
 Xcode plug-in which helps you write documentation comments easier, for both Objective-C and Swift.
+
+2. ColorSense-for-Xcode - https://github.com/omz/ColorSense-for-Xcode
+Not working for me right now on Xcode 7
