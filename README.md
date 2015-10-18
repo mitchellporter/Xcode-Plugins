@@ -7,6 +7,9 @@ Autocompletion for switch statements. Will autocomplete all possible cases for e
 2. BBUDebuggerTuckAway - https://github.com/neonichu/BBUDebuggerTuckAway
 Xcode plugin for auto-hiding the debugger once you start typing in the source code editor.
 
+3. KSImageNamed-Xcode - https://github.com/ksuther/KSImageNamed-Xcode
+Xcode plug-in that provides autocomplete for imageNamed: calls
+
 Will be using in the near future:
 
 1. VVDocumenter-Xcode - https://github.com/onevcat/VVDocumenter-Xcode
