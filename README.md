@@ -44,3 +44,6 @@ Xcode plugin to quantify your coding using https://wakatime.com/.
 
 6. MLAutoReplace - https://github.com/molon/MLAutoReplace
 Xcode plugin, Re-Intent, make you write code more quickly.
+
+7. XCSnippetr - https://github.com/dzenbot/XCSnippetr
+An Xcode Plugin to upload code snippets directly into Slack and Gist
